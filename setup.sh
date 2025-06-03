@@ -18,8 +18,8 @@ NC='\e[0m'
 red='\e[1;31m'
 green='\e[0;32m'
 TIMES="10"
-CHATID="1273841502"
-KEY="7736743366:AAFhGhvwu6yZRQ_txEXiAhe7LTEgzvh5Q-A"
+CHATID="6510459037"
+KEY="7827677815:AAGBUVwzWSST__t4oyPEUk3IQivME_9pzRU"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 # ===================
 clear
@@ -33,9 +33,9 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To SHADOW STORE SCRIPT ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To NAOKI ALL-IN-ONE SCRIPT ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}SHADOW VPN ® ${NC}${YELLOW}(${NC} ${green} SHADOW STORE ${NC}${YELLOW})${NC}"
+echo -e "  Auther : ${green}NAOKI ® ${NC}${YELLOW}(${NC} ${green} NAOKI ${NC}${YELLOW})${NC}"
 echo -e " © Recode By WINGS VPN STORE${YELLOW}(${NC} 2023 ${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
@@ -326,7 +326,7 @@ restart_system(){
 <code>Time     :</code><code>$TIMEZONE</code>
 <code>Exp Sc.  :</code><code>$exp</code>
 <code>────────────────────</code>
-<b> WINGS STORE SCRIPT  </b>
+<b> ALL-IN-ONE SCRIPT  </b>
 <code>────────────────────</code>
 <i>Automatic Notifications From Github</i>
 "'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/is_me_naoki"}]]}' 
